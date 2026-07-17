@@ -17,7 +17,7 @@
 - 📚 Estudando **Node.js, TypeScript, Java, Spring Boot, SQL, MongoDB e Python**
 - 🌱 Sempre aprendendo novas tecnologias
 - 🇧🇷 Brasil
-- 🇺🇲️ Inglês in Trainig
+- 🇺🇲️ Inglês in Training
 
 ---
 
