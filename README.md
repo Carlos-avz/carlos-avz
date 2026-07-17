@@ -36,25 +36,9 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/SEU_USUARIO">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
 <a href="https://discord.com/users/SEU_ID">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-avz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-avz&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -66,9 +50,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/carlos-avz/carlos-avz/output/github-contribution-grid-snake.svg"/>
-</p>
